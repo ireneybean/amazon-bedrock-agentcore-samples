@@ -102,11 +102,11 @@ Allows customization of prompts for extraction and consolidation, providing flex
             "semanticOverride": { # You can also override Summary or User Preferences.
                 "extraction": {
                     "appendToPrompt": "Extract specific information based on custom criteria",
-                    "modelId": "anthropic.claude-3-sonnet-20240229-v1:0",
+                    "modelId": "global.anthropic.claude-haiku-4-5-20251001-v1:0",
                 },
                 "consolidation": {
                     "appendToPrompt": "Consolidate extracted information in a specific format",
-                    "modelId": "anthropic.claude-3-sonnet-20240229-v1:0",
+                    "modelId": "global.anthropic.claude-haiku-4-5-20251001-v1:0",
                 }
             }
         }
@@ -157,6 +157,7 @@ Explore these hands-on examples to learn long-term memory strategy implementatio
 | ------------------------- | ------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | Strands Agent Hooks       | Customer Support    | Complete support system with semantic and preference memory strategies                  | [customer-support.ipynb](./01-single-agent/using-strands-agent-hooks/customer-support/customer-support.ipynb)  | [View](./01-single-agent/using-strands-agent-hooks/customer-support/architecture.png)      |
 | Strands Agent Hooks       | Math Assistant      | Math tutor assistant that remembers user learning preferences and progress              | [math-assistant.ipynb](./01-single-agent/using-strands-agent-hooks/simple-math-assistant/math-assistant.ipynb) | [View](./01-single-agent/using-strands-agent-hooks/simple-math-assistant/architecture.png) |
+| LangGraph Agent Hooks     | Nutrition Assistant | Nutrition advisor that saves user dietary preferences and health goals for personalized recommendations | [nutrition-assistant-with-user-preference-saving.ipynb](./01-single-agent/using-langgraph-agent-hooks/nutrition-assistant-with-user-preference-saving.ipynb) | [View](./01-single-agent/using-langgraph-agent-hooks/architecture.png) |
 | Strands Agent Memory Tool | Culinary Assistant  | Food recommendation agent that learns dietary preferences and cooking styles            | [culinary-assistant.ipynb](./01-single-agent/using-strands-agent-memory-tool/culinary-assistant.ipynb)         | [View](./01-single-agent/using-strands-agent-memory-tool/architecture.png)                 |
 | Multi-Agent               | Agent Collaboration | Travel Assistant with multiple agents sharing and utilizing long-term memory strategies | [travel-booking-assistant.ipynb](./02-multi-agent/with-strands-agent/travel-booking-assistant.ipynb)           | [View](./02-multi-agent/with-strands-agent/architecture.png)                               |
 

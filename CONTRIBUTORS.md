@@ -6,21 +6,29 @@
 - aristsakpinis93
 - aurbac
 - bergjaak
+- chanbi
+- crupakheti
 - danystinson
 - dhawalkp
 - didhd
 - EashanKaushik
+- Fabian Rami
 - Grace Lang
+- Joshua Samuel
 - khastation
 - manchandakp
+- madhurprash
 - Meghana Ashok
 - mttanke
 - mvangara10
 - ozhn
+- Polaris Jhandi 
+- premaiyer
 - rahullks
 - rameshv29
 - rohillasandeep
 - satveerkhurpa
+- seanslavichaws
 - sssumarss
 - sundargthb
 - vedashree1110
@@ -31,3 +39,24 @@
 - HardikThakkar94
 - brianloyal
 - ireneybean
+- jagdeep1
+- Sunil Ramachandra
+- Sandeep Raveesh-Babu
+- chintanpatel-ai
+- saurabh-et-al
+- Evandro Franco
+- greg-aws
+- Frank Dallezotte
+- patcher9
+- Omar Elkharbotly
+- Chintan Patel
+- Shreyas Subramanian
+- David Kaleko
+- sasikiran-malladi
+- sunkavar
+- joseanavarrom
+- spencer-zepelin
+- Chaitra Mathur (mchaitra007)
+- govindhi
+- Sandesh R
+- jld23
